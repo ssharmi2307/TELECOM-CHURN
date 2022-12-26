@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('TELECOM CHURN ANALYIS')
+st.title('TELECOM CHURN ANALYSIS')
 st.sidebar.header('User Input Parameters')
 
 def user_input_features():
